@@ -4,7 +4,7 @@ import requests
 import Models
 import Utils
 from time import sleep
-rangeLow = 36256
+rangeLow = 37792
 
 while True:
 
