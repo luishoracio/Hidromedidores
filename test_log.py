@@ -6,7 +6,7 @@ from email import parser
 from time import sleep
 
 difference = 50
-rangeLow = 9665
+rangeLow = 9665 
 rangeHigh = rangeLow + difference
 
 while True:
